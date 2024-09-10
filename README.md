@@ -3,12 +3,12 @@
 Welcome to the **Machine Learning Projects** repository! This repository contains implementations of various machine learning projects, focusing on practical applications and learning.
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [Projects](#projects)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Projects](#-projects)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 📝 Overview
 
