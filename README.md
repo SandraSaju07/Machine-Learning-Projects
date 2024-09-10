@@ -6,7 +6,7 @@ Welcome to the **Machine Learning Projects** repository! This repository contain
 - [Overview](#-overview)
 - [Projects](#-projects)
 - [Installation](#-installation)
-- [Usage](#-usage)
+- [Usage](#%EF%B8%8F-usage)
 - [Contributing](#-contributing)
 - [License](#-license)
 
