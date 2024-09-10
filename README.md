@@ -46,31 +46,28 @@ To run the projects locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/SandraSaju07/Machine-Learning-Projects.git
    cd your-repo-name
 2. Install required dependencies:
+   ```bash
    pip install -r requirements.txt
-3. Navigate to the project folder and run the script as described in each project’s README.
+4. Navigate to the project folder and run the script as described in each project’s README.
 
 ## ▶️ Usage
 
-Each project contains a separate folder with its own README that provides detailed instructions on how to run the code, including dataset links and implementation steps. For example, to run the Chatbot project:
-
-cd chatbot_project
-python app.py
+Each project contains a separate folder with its own README that provides detailed instructions on how to run the code, including dataset links and implementation steps. 
 
 ## 🧑‍💻 Contributing
 Contributions are welcome! If you'd like to contribute, feel free to fork the repository, create a branch, and submit a pull request. Please make sure your changes align with the overall structure and coding style of the repository.
 
 Steps:
-
 Fork the repository.
-Create your feature branch (git checkout -b feature/NewFeature).
-Commit your changes (git commit -m 'Add some NewFeature').
-Push to the branch (git push origin feature/NewFeature).
-Open a pull request.
+* Create your feature branch (git checkout -b feature/NewFeature).
+* Commit your changes (git commit -m 'Add some NewFeature').
+* Push to the branch (git push origin feature/NewFeature).
+* Open a pull request.
 
 ## 📜 License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the MIT License.
 
 
