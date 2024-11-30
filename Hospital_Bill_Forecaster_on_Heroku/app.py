@@ -3,7 +3,6 @@ from flask import Flask, render_template, url_for, request, redirect, jsonify # 
 from pycaret.regression import * # type: ignore
 import pandas as pd
 import numpy as np
-import pickle
 
 # Initialize Flask app
 app = Flask(__name__)

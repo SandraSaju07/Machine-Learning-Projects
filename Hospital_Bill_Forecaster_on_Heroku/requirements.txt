@@ -1,0 +1,8 @@
+pycaret==3.3.2
+Flask==3.1.0
+Jinja2==3.1.4
+gunicorn==19.9.0
+certifi==2024.8.30
+itsdangerous==2.2.0
+numpy==1.26.4
+pandas==2.1.4
