@@ -1,0 +1,43 @@
+body {
+    font-family:'Nunito', sans-serif;
+    background-color:#f8f9fa;
+    margin:0;
+    padding:0
+}
+
+.container {
+    margin-top:5%;
+}
+
+.card {
+    border-radius:10px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+}
+
+.btn-primary {
+    background-color:#007bff;
+    border:None;
+    transition:background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color:#0056b3;
+}
+
+.result-box {
+    margin-top:20px;
+    padding:10px;
+    border:1px solid #007bff;
+    border-radius:5px;
+    background-color:#e9f7ff;
+    color:#007bff;
+    font-weight:bold;
+    text-align:center;
+}
+
+footer {
+    margin-top:30px;
+    text-align:center;
+    font-size:0.9rem;
+    color:#6c757d;
+}
